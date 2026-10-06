@@ -46,3 +46,37 @@ function Ab(is){
     console.log(is);
 }
 Ab({Name: "Abhi", age: 24});
+
+let a = 10;
+function Av(){
+    let b = 10;
+    function Ak()
+{
+console.log(b);
+}
+Ak();
+}
+Av();
+
+(function(){
+let balance = 10000;
+})();
+
+let fnc = () => {
+    console.log("hey");
+}
+fnc();
+
+
+function aks(){
+    return function(){
+
+    }
+}
+
+function Aksa(){
+
+}
+Aksa(function(){
+    
+});
